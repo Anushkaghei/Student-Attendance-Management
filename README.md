@@ -1,11 +1,16 @@
 # Student-Attendance-Management
 The attendance management system has been designed in order to collect as well as analyse attendance data by making use of facial recognition.
-The application detects features of a students face and marks attendance
-if it finds a match in the existing database of student images in a
-particular class. Additionally, graphs are also curated in order to show
-teachers subject-wise attendance per day and total attendance percentage
-for each student. As an extra feature, this application also enables
-teachers to directly send emails to students and their parents.
+The application detects features of a students face and marks attendance if it finds a match in the existing database of student images in a
+particular class. 
+
+Graphs are curated in order to show teachers subject-wise attendance per day and total attendance percentage for each student. 
+
+![image](https://user-images.githubusercontent.com/79694271/214642079-b1ecb07d-5dc0-4fce-b82f-8ddff57f18c9.png)
+
+
+As an extra feature, this application also enables teachers to directly send emails to students and parents
+
+![image](https://user-images.githubusercontent.com/79694271/214641505-a8753ce3-e214-4dfa-be38-be4a08063adf.png)
 
 Scope:
 
@@ -19,6 +24,7 @@ in other systems.
 
 ● Other methods of attendance marking by using fingerprints or
 scanning of barcodes present on the student ID cards.
+
 
 Conclusions & Future Enhancements
 
