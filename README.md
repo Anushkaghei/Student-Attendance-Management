@@ -8,14 +8,14 @@ particular class.
 
 Graphs are curated in order to show teachers subject-wise attendance per day and total attendance percentage for each student. 
 
-![image](https://user-images.githubusercontent.com/79694271/214642079-b1ecb07d-5dc0-4fce-b82f-8ddff57f18c9.png)
+<img src="assets/graph.png" width="550" height="350">
 
 
 As an extra feature, this application also enables teachers to directly send emails to students and parents
 
-![image](https://user-images.githubusercontent.com/79694271/214641505-a8753ce3-e214-4dfa-be38-be4a08063adf.png)
+<img src="assets/email.png" width="400" height="400">
 
-Scope:
+<h2>Scope:</h2>
 
 The scope of this application is currently limited to the system on which
 it is installed, but it can be developed even further to accommodate a
@@ -29,7 +29,7 @@ in other systems.
 scanning of barcodes present on the student ID cards.
 
 
-Conclusions & Future Enhancements
+<h2>Conclusions & Future Enhancements</h2>
 
 The Attendance Management System we have developed using python
 meets our objective criteria and performs its designated functions. Using
