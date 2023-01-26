@@ -3,7 +3,7 @@ The attendance management system has been designed in order to collect as well a
 The application detects features of a students face and marks attendance if it finds a match in the existing database of student images in a
 particular class. 
 
-<img src="https://user-images.githubusercontent.com/79694271/214643809-6cc2fcc8-24a8-4a64-b16f-763843a35325.gif" width="300" height="300">
+<img src="assets/face.gif" width="300" height="300">
 
 
 Graphs are curated in order to show teachers subject-wise attendance per day and total attendance percentage for each student. 
