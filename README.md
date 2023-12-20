@@ -55,4 +55,5 @@ and to eliminate the loopholes to increase the integrity of the data.
 <h2>Contributors</h2>
 <li>Anushka Ghei</li>
 <li>Ananya Mahishi</li>
-<li></li>Aditi Prabhu A</li>
+<li>Aditi Prabhu A</li>
+<li>Aditi Goyal</li>
