@@ -51,3 +51,8 @@ future prospect.
 
 We also strive to improve the accuracy of the facial recognition portion
 and to eliminate the loopholes to increase the integrity of the data.
+
+<h2>Contributors</h2>
+<li>Anushka Ghei</li>
+<li>Ananya Mahishi</li>
+<li></li>Aditi Prabhu A</li>
